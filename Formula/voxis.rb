@@ -1,9 +1,9 @@
 class Voxis < Formula
   desc "Private voice dictation engine (Tauri + Rust)"
   homepage "https://voxis.top"
-  url "https://github.com/axelbaumlisto/voxis/releases/download/v0.1.20/voxis-macos-arm64.tar.gz"
-  version "0.1.20"
-  sha256 "8fe4b3924ab57d5b329379559eaacdf769895cc65fcef0c7d0d50dd333021a07"
+  url "https://github.com/axelbaumlisto/voxis/releases/download/v0.1.21/voxis-macos-arm64.tar.gz"
+  version "0.1.21"
+  sha256 "424f1f4c17644b357c6672d19892cbb6cac4b8c4d9a964c2679c236e150c901f"
   depends_on arch: :arm64
 
   def install
